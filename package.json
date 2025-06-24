@@ -1,28 +1,9 @@
 {
   "dependencies": {
     "class-variance-authority": "^0.7.1",
-    "lucide-react": "^0.510.0"
-  },
-  "kontrakan": [
-    {
-      "nama": "Kontrakan AA 1",
-      "harga": 450000,
-      "deskripsi": "Kontrakan murah dan strategis"
-    },
-    {
-      "nama": "Kontrakan AA 2",
-      "harga": 500000,
-      "deskripsi": "Kontrakan nyaman dan dekat dengan pasar"
-    },
-    {
-      "nama": "Kontrakan AA 3",
-      "harga": 600000,
-      "deskripsi": "Kontrakan luas dan aman"
-    },
-    {
-      "nama": "Kontrakan AA 4",
-      "harga": 550000,
-      "deskripsi": "Kontrakan bersih dan terjangkau"
-    }
-  ]
+    "lucide-react": "^0.510.0",
+    "next": "^14.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
